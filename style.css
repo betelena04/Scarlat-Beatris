@@ -8,7 +8,7 @@
 .header-container {
     margin: 5% 5% 0%;
     height: 85vh;
-    background-image: url('/images/head-img4.jpg');
+    background-image: url('images/head-img4.jpg');
     background-position: center;
     background-size: cover;
     display: flex;
@@ -184,7 +184,7 @@
 /* Header portfolio*/
 header.canoe {
     height: 140px;
-    background-image: url('/images/canoe-project.png');
+    background-image: url('images/canoe-project.png');
     background-position: bottom;
     background-size: cover;
     width: 100%;
@@ -193,7 +193,7 @@ header.canoe {
 
 header.favola {
     height: 140px;
-    background-image: url('/images/favola-project.png');
+    background-image: url('images/favola-project.png');
     background-position: center;
     background-size: cover;
     width: 100%;
@@ -202,7 +202,7 @@ header.favola {
 
 header.sticky {
     height: 140px;
-    background-image: url('/images/sticky-project.png');
+    background-image: url('images/sticky-project.png');
     background-position: center;
     background-size: cover;
     width: 100%;
@@ -211,7 +211,7 @@ header.sticky {
 
 header.game {
     height: 140px;
-    background-image: url('/images/game-project.png');
+    background-image: url('images/game-project.png');
     background-position: bottom;
     background-size: cover;
     width: 100%;
@@ -259,7 +259,7 @@ h2.title {
     margin-left: 5%;
     margin-top: 60px;
     height: 50vh;
-    background-image: url('/images/footer-img.jpg.jpg');
+    background-image: url('images/footer-img.jpg.jpg');
     background-position: center;
     background-size: cover;
     max-width: 100%;
